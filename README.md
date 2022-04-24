@@ -12,7 +12,8 @@ ITシステム開発演習Ⅰのピアチューターが教える学生の課題
 * プログラムの流れの詳細は「設計書/画面遷移図」をご確認ください。
 
 ### 設計書
-* 現在、画面遷移図・テーブル定義書のみ
+* 画面遷移図、テーブル定義書有
+* 確認画像フォルダ有 → 制作内容がイメージしやすくなると思います。
 
 ## 参考サイトまとめ
 https://docs.google.com/spreadsheets/d/1gyiamjWlmiNx1Gf7T4-mjKU5VcA447iMIqbLp7BfI8E/edit?usp=sharing
