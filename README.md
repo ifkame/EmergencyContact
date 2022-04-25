@@ -17,5 +17,8 @@ ITシステム開発演習Ⅰのピアチューターが教える学生の課題
 
 ## シス開第一フェーズでやることの"markdown"も載せています。
 
+## 変更箇所
+* 2022/04/25 パスワードを非表示に変更
+
 ## 参考サイトまとめ
 https://docs.google.com/spreadsheets/d/1gyiamjWlmiNx1Gf7T4-mjKU5VcA447iMIqbLp7BfI8E/edit?usp=sharing
